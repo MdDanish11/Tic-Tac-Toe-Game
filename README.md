@@ -12,10 +12,7 @@ Welcome to my Tic Tac Toe game! This project implements a simple web-based Tic T
 
 ## Demo
 
-You can play the game live at (#)  https://mddanish11.github.io/Tic-Tac-Toe-Game/.
-
-![Tic Tac Toe Screenshot](screenshot.png)
-*Screenshot of the Tic Tac Toe game*
+You can play the game live at  https://mddanish11.github.io/Tic-Tac-Toe-Game/.
 
 ## Features
 
